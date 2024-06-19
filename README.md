@@ -1,4 +1,4 @@
-#**DBMS Music Library**
+# **DBMS Music Library**
 
 A Django project that models a real-world music library, featuring user and admin login, registration, and management of artists, albums, songs, and playlists.
 
