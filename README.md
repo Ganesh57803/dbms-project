@@ -7,7 +7,9 @@ A Django project that models a real-world music library, featuring user and admi
 ### Step 1: Activate Virtual Environment
 
 To activate the virtual environment, run the following command in your terminal or command prompt:
-
+```bash
+python -m venv venv
+```
 ```bash
 venv\Scripts\activate
 ```
